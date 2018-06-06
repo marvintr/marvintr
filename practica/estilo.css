@@ -1,0 +1,87 @@
+body{
+    height: 100px;
+}
+
+#main{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: white;
+}
+
+#total{
+    height: 1150px;
+    margin-top: 100px;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-left: 10px dashed  gray;
+    border-right: 10px dashed  gray;
+}
+#primera{
+    margin-left: 10px;
+    height: 500px;
+    width: 350px;
+    background-color: gray;
+    float: left;
+}
+#referencia{
+    text-align: right;
+    
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+#title{
+    border-bottom:2px solid gray;
+}
+#segunda{
+    height: 430px;
+    width: 350px;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 17%;
+    background-color: gray;
+
+}
+#tercera{
+    margin-top: 100px;
+    margin-left: 10px;
+    background-color: gray;
+    height: 400px;
+    width: 350px;
+    float: left;
+}
+#cuarta{
+    margin-top: 20px;
+    background-color: gray;
+    height: 550px;
+    width: 350px;
+    float: right;
+    margin-right: 20px;
+}
+#encabezado{
+    border-bottom: 3px solid gray;
+}
+#cajapria{
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
+#cajaprib{
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
+#cajapric{
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
