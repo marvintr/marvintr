@@ -17,7 +17,8 @@
             }
             
             body {
-                margin: 0
+                margin: 0;
+                background-color: #6b2323
             }
             
             article,
@@ -2123,4 +2124,25 @@
                 to {
                     transform: rotateY(360deg);
                 }
+            }
+            
+            @import url('https://fonts.googleapis.com/css?family=Eater|Merriweather|Open+Sans+Condensed:300|PT+Sans|Playfair+Display|Roboto+Slab|Shrikhand|Ubuntu');
+            #aves {
+                font-family: 'Shrikhand', cursive;
+            }
+            
+            #peces {
+                font-family: 'Roboto Slab', serif;
+            }
+            
+            #mamiferos {
+                font-family: 'Ubuntu', sans-serif;
+            }
+            
+            #titulo {
+                font-family: 'Eater', cursive;
+            }
+            
+            h3 {
+                font-family: 'Eater', cursive;
             }
